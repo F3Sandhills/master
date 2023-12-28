@@ -17,8 +17,8 @@ import f3HeroImg from "../../../public/f3-darkhorse-2023-11-04.jpg";
 export default function fng() {
   const href = "/workouts";
   const mapDetails = {
-    lat: 35.6440534,
-    lon: -87.095208,
+    lat: 35.192222,
+    lon: -79.468333,
     zoom: 12,
   };
   const mapUrl = `https://map.f3nation.com/?lat=${mapDetails.lat}&lon=${mapDetails.lon}&zoom=${mapDetails.zoom}`;
